@@ -1,8 +1,8 @@
 #EXTM3U
 
 # ─────────── Sports───────────
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Brazil vs Norway Toffee
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdntl=Expires=1783352720~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclBUUq9wTD-jaDHZTdKJmwjYa0sbQ187VZq_j3clvSFjAFcIaP__EUU1mh9pTuCtJP-SG9fE4lHfmY1rV4IgD9MD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", England vs Mexico Toffee
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/sst/0/master_1500.m3u8?hdntl=Expires=1783379374~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclCCc_ofcSE-YkvSNGdCV8whMuibIR8acCE3K9bk9LO35r0jL1vNMD1dPXWomN_vVdzUsMSzW1m04h4lPzCImDwG
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", BTV NS
 http://180.94.28.28:8097//BTV/index.fmp4.m3u8?token=8e9616c21d1ce3454bb9171c3c68550574f121aa-12a55987e1a817f2a4c12b2cfa6c3b78-1776169971-1776166371
@@ -31,8 +31,8 @@ http://fastshare1.com/live/25711345/late8airline/745202.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Fox 1
 http://fastshare1.com/live/25711345/late8airline/751354.ts
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Fox 2
-http://fastshare1.com/live/25711345/late8airline/751355.ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TestT
+https://cdn2.fifalive.click/play.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bein Sports 1 HD
 http://fastshare1.com/live/25711345/late8airline/744517.ts
